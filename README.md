@@ -1,7 +1,8 @@
 # Esercitazioni Calcolatori Elettronici
 
 ## Esercitazione 1
-* Presentazione di Virtual Shock 
+* Presentazione di Virtual Shock
+ * https://github.com/GregorioMonari/VirtualShockProject
 
 ## Esercitazione 2
 * Somma sequenziale e forme d'onda 
